@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20822e70.css",
+    "main.js": "/static/js/main.4bb24ff3.js",
+    "static/media/Comfortaa-VariableFont_wght.ttf": "/static/media/Comfortaa-VariableFont_wght.4d2ab5de91c4d193a69f.ttf",
+    "static/media/SigmarOne-Regular.ttf": "/static/media/SigmarOne-Regular.4162062e3ac57267c49c.ttf",
+    "index.html": "/index.html",
+    "main.20822e70.css.map": "/static/css/main.20822e70.css.map",
+    "main.4bb24ff3.js.map": "/static/js/main.4bb24ff3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20822e70.css",
+    "static/js/main.4bb24ff3.js"
+  ]
+}
